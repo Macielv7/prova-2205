@@ -4,9 +4,9 @@ Este é um projeto web simples para cadastrar e gerenciar voluntários. Ele perm
 
 ## Acesso ao login
 
-| email | senha |
-| ----- | ----- |
-| admin | 1234@ |
+| email       | senha |
+| ----------- | ----- |
+| admin@admin | 1234@ |
 
 ## 🚀 Funcionalidades
 
