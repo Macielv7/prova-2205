@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("formCliente");
-  const tabela = document.getElementById("tabelaClientes");
   const cepInput = document.getElementById("cep");
   const enderecoInput = document.getElementById("endereco");
 
