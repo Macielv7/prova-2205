@@ -48,6 +48,9 @@ document.addEventListener("DOMContentLoaded", () => {
       salvarCliente({ nome, email, cep, endereco });
       form.reset();
       enderecoInput.value = "";
+      setTimeout(() => {
+        window.location.href = "voluntarios.html";
+      }, 500);
     } else {
       alert("Preencha todos os campos corretamente.");
     }
