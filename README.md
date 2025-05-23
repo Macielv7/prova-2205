@@ -59,10 +59,8 @@ Este é um projeto web simples para cadastrar e gerenciar voluntários. Ele perm
 1.  **Clone o Repositório:**
 
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/Macielv7/prova-2205
     ```
-
-    (Substitua `<URL_DO_SEU_REPOSITORIO>` pelo link real do seu repositório Git, se houver.)
 
 2.  **Navegue até a Pasta do Projeto:**
 
