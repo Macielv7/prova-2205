@@ -1,3 +1,8 @@
+# Integrantes
+
+- Marciel Vinicius
+- Raul Soares
+
 # Projeto de Gestão de Voluntários
 
 Este é um projeto web simples para cadastrar e gerenciar voluntários. Ele permite que os usuários adicionem novos voluntários com seus dados, visualizem uma lista de voluntários existentes no formato de flash cards, pesquisem por voluntários específicos e excluam registros individualmente ou todos de uma vez.
